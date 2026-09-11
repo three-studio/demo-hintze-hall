@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "_studio/index-DrV2Smy7.js",
+      "bytes": 4299541,
+      "sha256": "83f07195d7e05ec3fba8466bf441990617e67c6deda98092980b3d94c7e32ebc"
+    },
+    {
+      "path": "assets/models/test/hintze_hall.1f811041.glb",
+      "bytes": 27271136,
+      "sha256": "1f811041f7b96554ff1a6768737327319101b7042456ee45b415feaa8f87284e"
+    },
+    {
+      "path": "build.json",
+      "bytes": 882,
+      "sha256": "c533f2ee98ca9287d096be532d6909842afe71c82f080038ef233e49bdc89438"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 324,
+      "sha256": "33553eb045dfdc222245e58cbcd3ab690d0ddca5bb7e59b41f5da02c37219bc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1519,
+      "sha256": "a3b103841f8f6f3a2f1997e807119076febd821ce47ff8beed65a5df24997bce"
+    },
+    {
+      "path": "scenes/g3hts8fKiM1V.json",
+      "bytes": 6033,
+      "sha256": "7b336f3ad15ac3566848224d4b7bc64d6e1d8970e0102ddeeac177ebdd35b453"
+    }
+  ]
+}

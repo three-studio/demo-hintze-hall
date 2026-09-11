@@ -1,0 +1,271 @@
+{
+  "components": {
+    "audioListener": {},
+    "audioSource": {},
+    "camera": {},
+    "collider": {
+      "4tsFmq4NB9wM": {
+        "4BlasyEcgSNw": {
+          "friction": 0.7,
+          "halfHeight": 0.5,
+          "id": "4BlasyEcgSNw",
+          "isSensor": false,
+          "radius": 0.5,
+          "restitution": 0,
+          "shape": "capsule",
+          "size": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "type": "collider"
+        }
+      },
+      "xybacpDeqNyw": {
+        "vjlo2Pq3f6Gp": {
+          "friction": 0.7,
+          "halfHeight": 0.5,
+          "id": "vjlo2Pq3f6Gp",
+          "isSensor": false,
+          "radius": 0.5,
+          "restitution": 0,
+          "shape": "trimesh",
+          "size": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "type": "collider"
+        }
+      }
+    },
+    "light": {},
+    "mesh": {
+      "4tsFmq4NB9wM": {
+        "6phiX53pssa3": {
+          "castShadow": true,
+          "geometry": {
+            "capSegments": 8,
+            "height": 1.75,
+            "kind": "capsule",
+            "radialSegments": 16,
+            "radius": 0.7
+          },
+          "id": "6phiX53pssa3",
+          "material": {
+            "alphaMap": null,
+            "aoIntensity": 1,
+            "aoMap": null,
+            "bumpMap": null,
+            "bumpScale": 1,
+            "color": "#b7b7b7",
+            "colorMap": null,
+            "displacementBias": 0,
+            "displacementMap": null,
+            "displacementScale": 0.1,
+            "emissive": "#000000",
+            "emissiveIntensity": 1,
+            "emissiveMap": null,
+            "metalness": 0,
+            "metalnessMap": null,
+            "normalMap": null,
+            "normalScale": 1,
+            "offset": [
+              0,
+              0
+            ],
+            "opacity": 1,
+            "roughness": 0.75,
+            "roughnessMap": null,
+            "side": "front",
+            "tiling": [
+              1,
+              1
+            ],
+            "transparent": false,
+            "wireframe": false,
+            "wrap": "repeat"
+          },
+          "materialId": null,
+          "receiveShadow": true,
+          "type": "mesh"
+        }
+      }
+    },
+    "model": {
+      "xybacpDeqNyw": {
+        "JzgDA30LtBv4": {
+          "assetId": "00E0jZg3tQrC",
+          "castShadow": true,
+          "id": "JzgDA30LtBv4",
+          "materialId": null,
+          "nodeName": "",
+          "nodePath": "",
+          "receiveShadow": true,
+          "type": "model"
+        }
+      }
+    },
+    "particleEmitter": {},
+    "playerController": {
+      "4tsFmq4NB9wM": {
+        "Xjasd2EVO3hE": {
+          "cameraDistance": 5,
+          "eyeHeight": 1.5,
+          "id": "Xjasd2EVO3hE",
+          "jumpHeight": 1.2,
+          "mode": "fps",
+          "mouseSensitivity": 0.0022,
+          "moveSpeed": 6,
+          "sprintMultiplier": 1.8,
+          "type": "playerController"
+        }
+      }
+    },
+    "prefabInstance": {},
+    "rigidbody": {
+      "4tsFmq4NB9wM": {
+        "T3fksD6cZgKc": {
+          "angularDamping": 0.05,
+          "bodyType": "kinematicPosition",
+          "ccd": false,
+          "gravityScale": 1,
+          "id": "T3fksD6cZgKc",
+          "linearDamping": 0,
+          "mass": 1,
+          "type": "rigidbody"
+        }
+      },
+      "xybacpDeqNyw": {
+        "6DQhRWdcjhEv": {
+          "angularDamping": 0.05,
+          "bodyType": "fixed",
+          "ccd": false,
+          "gravityScale": 1,
+          "id": "6DQhRWdcjhEv",
+          "linearDamping": 0,
+          "mass": 1,
+          "type": "rigidbody"
+        }
+      }
+    },
+    "script": {},
+    "water": {}
+  },
+  "entities": {
+    "4tsFmq4NB9wM": {
+      "children": [],
+      "id": "4tsFmq4NB9wM",
+      "locked": false,
+      "name": "Capsule",
+      "parent": null,
+      "transform": {
+        "position": [
+          -0.08181926776354542,
+          4.0310099664850885,
+          -53.89624369512318
+        ],
+        "rotation": [
+          -3.141592653589793,
+          1.2246467991473532e-16,
+          -3.141592653589793
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "visible": true
+    },
+    "vIDyEQvQoIu8": {
+      "children": [],
+      "id": "vIDyEQvQoIu8",
+      "locked": false,
+      "name": "Scene",
+      "parent": null,
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "visible": true
+    },
+    "xybacpDeqNyw": {
+      "children": [],
+      "id": "xybacpDeqNyw",
+      "locked": false,
+      "name": "hintze_hall",
+      "parent": null,
+      "transform": {
+        "position": [
+          8.881784197001243e-16,
+          0,
+          3.5527136788004974e-15
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.901569977134135,
+          2.901569977134135,
+          2.901569977134135
+        ]
+      },
+      "visible": true
+    }
+  },
+  "environment": {
+    "background": "#2b2f33",
+    "backgroundBlur": 0,
+    "backgroundIntensity": 1,
+    "backgroundMode": "color",
+    "backgroundTexture": null,
+    "environmentIntensity": 1,
+    "environmentMode": "none",
+    "environmentTexture": null,
+    "fogColor": "#2b2f33",
+    "fogDensity": 0.01,
+    "fogEnabled": false,
+    "fogFar": 400,
+    "fogMode": "linear",
+    "fogNear": 30,
+    "rotation": 0,
+    "sky": {
+      "azimuth": 180,
+      "cloudCoverage": 0.4,
+      "cloudDensity": 0.4,
+      "cloudElevation": 0.5,
+      "cloudScale": 0.0002,
+      "cloudSpeed": 0.0001,
+      "elevation": 2,
+      "mieCoefficient": 0.005,
+      "mieDirectionalG": 0.8,
+      "rayleigh": 1,
+      "sunDisc": true,
+      "turbidity": 2
+    }
+  },
+  "id": "g3hts8fKiM1V",
+  "name": "Main",
+  "rootOrder": [
+    "vIDyEQvQoIu8",
+    "4tsFmq4NB9wM",
+    "xybacpDeqNyw"
+  ],
+  "version": 9
+}

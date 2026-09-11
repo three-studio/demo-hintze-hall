@@ -1,0 +1,9 @@
+# Normalise line endings for text, and keep every binary byte-for-byte.
+# The 26 MB model must never go through line-ending normalisation.
+* text=auto eol=lf
+
+*.glb  binary
+*.jpg  binary
+*.png  binary
+*.svg  text
+*.json text

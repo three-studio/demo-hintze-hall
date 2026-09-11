@@ -1,0 +1,43 @@
+{
+  "formatVersion": 5,
+  "title": "Hintze Hall",
+  "forceWebGL": false,
+  "rendering": {
+    "forceWebGL": false,
+    "antialias": true,
+    "maxPixelRatio": 2,
+    "shadows": true,
+    "shadowMapSize": 2048,
+    "exposure": 1,
+    "batching": true
+  },
+  "scenes": [
+    "g3hts8fKiM1V"
+  ],
+  "sceneNames": {
+    "main": "g3hts8fKiM1V"
+  },
+  "loadingScene": null,
+  "assets": {
+    "00E0jZg3tQrC": "models/test/hintze_hall.1f811041.glb"
+  },
+  "materials": {},
+  "prefabs": {},
+  "textureEncodings": {},
+  "assetSettings": {
+    "00E0jZg3tQrC": {
+      "kind": "model",
+      "scale": 1,
+      "upAxis": "z",
+      "generateColliders": true,
+      "importMaterials": true,
+      "importAnimations": true,
+      "maxTextureSize": 2048,
+      "compressGeometry": true,
+      "format": "gltf",
+      "importCameras": false,
+      "importLights": false
+    }
+  },
+  "scripts": null
+}
