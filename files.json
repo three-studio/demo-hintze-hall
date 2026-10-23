@@ -1,34 +1,40 @@
 {
+  "formatVersion": 1,
   "files": [
-    {
-      "path": "_studio/index-DrV2Smy7.js",
-      "bytes": 4299541,
-      "sha256": "83f07195d7e05ec3fba8466bf441990617e67c6deda98092980b3d94c7e32ebc"
-    },
-    {
-      "path": "assets/models/test/hintze_hall.1f811041.glb",
-      "bytes": 27271136,
-      "sha256": "1f811041f7b96554ff1a6768737327319101b7042456ee45b415feaa8f87284e"
-    },
-    {
-      "path": "build.json",
-      "bytes": 882,
-      "sha256": "c533f2ee98ca9287d096be532d6909842afe71c82f080038ef233e49bdc89438"
-    },
     {
       "path": "favicon.svg",
       "bytes": 324,
       "sha256": "33553eb045dfdc222245e58cbcd3ab690d0ddca5bb7e59b41f5da02c37219bc6"
     },
     {
-      "path": "index.html",
-      "bytes": 1519,
-      "sha256": "a3b103841f8f6f3a2f1997e807119076febd821ce47ff8beed65a5df24997bce"
+      "path": "game/assets/models/test/hintze_hall.1f811041.glb",
+      "bytes": 27271136,
+      "sha256": "1f811041f7b96554ff1a6768737327319101b7042456ee45b415feaa8f87284e"
     },
     {
-      "path": "scenes/g3hts8fKiM1V.json",
-      "bytes": 6033,
-      "sha256": "7b336f3ad15ac3566848224d4b7bc64d6e1d8970e0102ddeeac177ebdd35b453"
+      "path": "game/build.json",
+      "bytes": 1039,
+      "sha256": "4c1b50b1a69903742fa9e56c60874e9fee63f5b2a4724db91a8b14cb0b0f63dd"
+    },
+    {
+      "path": "game/scenes/main.f7e3a918.json",
+      "bytes": 6140,
+      "sha256": "f7e3a91806e546c9d03cf26aa98a268a26cf1917b24381d8bc89dd6b41b3d51f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3041,
+      "sha256": "298a429faba433e3e09e2ef8ba2714dcb3a5c2286a24b82e0e963aaae8da97d9"
+    },
+    {
+      "path": "player/main.c7f424a2.js",
+      "bytes": 4307777,
+      "sha256": "37c4026b4250b8590b8a2dd78e74d2193abbc9b117533a4e61cbfb0f5f4e928f"
+    },
+    {
+      "path": "player/touch.9a94becf.js",
+      "bytes": 21004,
+      "sha256": "0d6ee5216decd250099dfa6f708be6a1f34e2d8c5c5b33bf5b8fda06dbc85a2a"
     }
   ]
 }

@@ -111,13 +111,16 @@
       "4tsFmq4NB9wM": {
         "Xjasd2EVO3hE": {
           "cameraDistance": 5,
-          "eyeHeight": 1.5,
+          "eyeHeight": 2.5,
+          "fov": 70,
           "id": "Xjasd2EVO3hE",
           "jumpHeight": 1.2,
           "mode": "fps",
           "mouseSensitivity": 0.0022,
           "moveSpeed": 6,
           "sprintMultiplier": 1.8,
+          "touchControls": "auto",
+          "touchLookSpeed": 2.5,
           "type": "playerController"
         }
       }
@@ -246,13 +249,13 @@
     "fogNear": 30,
     "rotation": 0,
     "sky": {
-      "azimuth": 180,
+      "azimuth": -32,
       "cloudCoverage": 0.4,
       "cloudDensity": 0.4,
       "cloudElevation": 0.5,
       "cloudScale": 0.0002,
       "cloudSpeed": 0.0001,
-      "elevation": 2,
+      "elevation": 19.902499816728977,
       "mieCoefficient": 0.005,
       "mieDirectionalG": 0.8,
       "rayleigh": 1,
@@ -267,5 +270,5 @@
     "4tsFmq4NB9wM",
     "xybacpDeqNyw"
   ],
-  "version": 9
+  "version": 10
 }

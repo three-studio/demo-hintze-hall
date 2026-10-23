@@ -1,7 +1,6 @@
 {
-  "formatVersion": 5,
+  "formatVersion": 7,
   "title": "Hintze Hall",
-  "forceWebGL": false,
   "rendering": {
     "forceWebGL": false,
     "antialias": true,
@@ -11,15 +10,25 @@
     "exposure": 1,
     "batching": true
   },
-  "scenes": [
-    "g3hts8fKiM1V"
-  ],
-  "sceneNames": {
-    "main": "g3hts8fKiM1V"
+  "physics": {
+    "gravity": [
+      0,
+      -9.81,
+      0
+    ],
+    "fixedTimestep": 0.016666666666666666,
+    "maxSubsteps": 5
   },
+  "scenes": [
+    {
+      "id": "g3hts8fKiM1V",
+      "name": "main",
+      "path": "scenes/main.f7e3a918.json"
+    }
+  ],
   "loadingScene": null,
   "assets": {
-    "00E0jZg3tQrC": "models/test/hintze_hall.1f811041.glb"
+    "00E0jZg3tQrC": "assets/models/test/hintze_hall.1f811041.glb"
   },
   "materials": {},
   "prefabs": {},
